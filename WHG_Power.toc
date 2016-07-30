@@ -1,0 +1,4 @@
+## Interface: 70000
+## Title: WHG Power
+## Notes: AddOn that changes the hp/resource display below the character and filters buffs/debuffs.
+code.lua
